@@ -1,0 +1,11 @@
+# Python 
+mini-search-engine/venv/ 
+mini-search-engine/__pycache__/ 
+mini-search-engine/api/__pycache__/ 
+mini-search-engine/engine/__pycache__/ 
+mini-search-engine/data/index.json 
+*.pyc 
+# Node 
+search-ui/node_modules/ 
+search-ui/dist/ 
+.env 

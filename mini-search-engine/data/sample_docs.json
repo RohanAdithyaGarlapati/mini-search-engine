@@ -1,0 +1,302 @@
+[
+  {
+    "id": "doc_1",
+    "title": "Machine Learning \u2014 Google Developers",
+    "content": "Machine learning is a subfield of artificial intelligence that gives computers the ability to learn without being explicitly programmed. It focuses on developing algorithms that can access data and use it to learn for themselves. Supervised learning, unsupervised learning, and reinforcement learning are the three main types. Common algorithms include linear regression, decision trees, random forests, support vector machines, and neural networks.",
+    "url": "https://developers.google.com/machine-learning/crash-course"
+  },
+  {
+    "id": "doc_2",
+    "title": "Python Official Documentation",
+    "content": "Python is a high-level general purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage collected. It supports multiple programming paradigms including structured, object oriented and functional programming. Python is widely used in data science, web development, automation, and artificial intelligence.",
+    "url": "https://docs.python.org/3/"
+  },
+  {
+    "id": "doc_3",
+    "title": "Deep Learning Specialization \u2014 Coursera",
+    "content": "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Deep learning architectures such as convolutional neural networks, recurrent neural networks and transformers have been applied to fields including computer vision and natural language processing. TensorFlow and PyTorch are the most popular deep learning frameworks.",
+    "url": "https://www.coursera.org/specializations/deep-learning"
+  },
+  {
+    "id": "doc_4",
+    "title": "Django Web Framework Documentation",
+    "content": "Django is a high-level Python web framework that encourages rapid development and clean pragmatic design. Django follows the model view template architectural pattern and includes an ORM, authentication, URL routing, and an admin interface out of the box. It is used by Instagram, Pinterest, and Mozilla.",
+    "url": "https://docs.djangoproject.com"
+  },
+  {
+    "id": "doc_5",
+    "title": "Data Structures and Algorithms \u2014 GeeksforGeeks",
+    "content": "A data structure is a particular way of organizing data in a computer so that it can be accessed and modified efficiently. Arrays, linked lists, stacks, queues, trees, graphs and hash tables are fundamental data structures. Algorithms for sorting such as quicksort and mergesort, and searching such as binary search are essential for every software engineer.",
+    "url": "https://www.geeksforgeeks.org/data-structures"
+  },
+  {
+    "id": "doc_6",
+    "title": "FastAPI \u2014 Modern Python Web Framework",
+    "content": "FastAPI is a modern fast high-performance web framework for building APIs with Python based on standard Python type hints. It automatically generates interactive API documentation using Swagger UI and ReDoc. FastAPI supports async programming, dependency injection, and data validation using Pydantic. It is one of the fastest Python frameworks available.",
+    "url": "https://fastapi.tiangolo.com"
+  },
+  {
+    "id": "doc_7",
+    "title": "React \u2014 JavaScript Library for User Interfaces",
+    "content": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of developers. React uses a virtual DOM to efficiently update and render components when data changes. Hooks such as useState and useEffect allow functional components to manage state and side effects.",
+    "url": "https://react.dev"
+  },
+  {
+    "id": "doc_8",
+    "title": "Docker Documentation \u2014 Containerization Platform",
+    "content": "Docker is a platform for developing shipping and running applications in containers. Containers allow developers to package an application with all its dependencies into a standardized unit. Docker uses a client-server architecture with the Docker daemon managing images containers networks and volumes. Docker Compose is used to define and run multi-container applications.",
+    "url": "https://docs.docker.com"
+  },
+  {
+    "id": "doc_9",
+    "title": "PostgreSQL \u2014 Advanced Open Source Database",
+    "content": "PostgreSQL is a powerful open source object-relational database system with over 35 years of active development. It has earned a strong reputation for reliability, feature robustness, and performance. PostgreSQL supports advanced data types, full text search, JSON, and geospatial data through the PostGIS extension. It is ACID compliant and supports complex queries, foreign keys, triggers, and stored procedures.",
+    "url": "https://www.postgresql.org/docs/"
+  },
+  {
+    "id": "doc_10",
+    "title": "Redis \u2014 In-Memory Data Structure Store",
+    "content": "Redis is an open source in-memory data structure store used as a database, cache, message broker, and streaming engine. Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions, and persistence.",
+    "url": "https://redis.io/docs/"
+  },
+  {
+    "id": "doc_11",
+    "title": "Kubernetes \u2014 Container Orchestration",
+    "content": "Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications. Originally designed by Google, it groups containers that make up an application into logical units for easy management and discovery. Kubernetes supports automatic bin packing, self-healing, horizontal scaling, service discovery, and load balancing.",
+    "url": "https://kubernetes.io/docs/home/"
+  },
+  {
+    "id": "doc_12",
+    "title": "Natural Language Processing with Python \u2014 NLTK",
+    "content": "Natural language processing is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language. NLTK is a leading platform for building Python programs to work with human language data. It provides interfaces to over 50 corpora and lexical resources such as WordNet, along with text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning.",
+    "url": "https://www.nltk.org/"
+  },
+  {
+    "id": "doc_13",
+    "title": "Pandas \u2014 Python Data Analysis Library",
+    "content": "Pandas is a fast powerful flexible and easy to use open source data analysis and manipulation tool built on top of Python. It provides data structures like DataFrame and Series for handling structured data. Pandas supports reading and writing data from CSV, Excel, SQL, JSON, and many other formats. It is widely used in data science, machine learning, and financial analysis.",
+    "url": "https://pandas.pydata.org/docs/"
+  },
+  {
+    "id": "doc_14",
+    "title": "NumPy \u2014 Scientific Computing with Python",
+    "content": "NumPy is the fundamental package for scientific computing in Python. It provides a multidimensional array object, various derived objects such as masked arrays and matrices, and an assortment of routines for fast operations on arrays including mathematical, logical, shape manipulation, sorting, selecting, discrete Fourier transforms, basic linear algebra, basic statistical operations and random simulation.",
+    "url": "https://numpy.org/doc/"
+  },
+  {
+    "id": "doc_15",
+    "title": "Scikit-learn \u2014 Machine Learning in Python",
+    "content": "Scikit-learn is a free software machine learning library for Python. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN. Scikit-learn is designed to interoperate with NumPy and Pandas. It includes tools for model selection, preprocessing, cross-validation and hyperparameter tuning.",
+    "url": "https://scikit-learn.org/stable/"
+  },
+  {
+    "id": "doc_16",
+    "title": "TensorFlow \u2014 Machine Learning Platform by Google",
+    "content": "TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks. TensorFlow was developed by the Google Brain team and supports distributed computing, TPU acceleration, and deployment to mobile devices via TensorFlow Lite.",
+    "url": "https://www.tensorflow.org/learn"
+  },
+  {
+    "id": "doc_17",
+    "title": "PyTorch \u2014 Deep Learning Framework by Meta",
+    "content": "PyTorch is an open source machine learning framework based on the Torch library used for applications such as computer vision and natural language processing. It is primarily developed by Meta AI Research. PyTorch provides tensor computation with GPU acceleration and automatic differentiation through its autograd system. It is widely used in research due to its dynamic computational graph.",
+    "url": "https://pytorch.org/docs/stable/index.html"
+  },
+  {
+    "id": "doc_18",
+    "title": "Git \u2014 Distributed Version Control System",
+    "content": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git was created by Linus Torvalds in 2005 for the Linux kernel. Git allows multiple developers to work on the same codebase, track changes, create branches, merge code, and revert to previous versions.",
+    "url": "https://git-scm.com/doc"
+  },
+  {
+    "id": "doc_19",
+    "title": "GitHub Actions \u2014 CI/CD Automation",
+    "content": "GitHub Actions is a continuous integration and continuous delivery platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that run tests on every pull request, deploy to production on merge, and automate repetitive tasks. GitHub Actions supports matrix builds, container jobs, reusable workflows, and secrets management.",
+    "url": "https://docs.github.com/en/actions"
+  },
+  {
+    "id": "doc_20",
+    "title": "REST API Design Best Practices",
+    "content": "REST stands for Representational State Transfer and is an architectural style for designing networked applications. RESTful APIs use HTTP requests to perform CRUD operations: GET to retrieve, POST to create, PUT to update, DELETE to remove resources. Best practices include meaningful URLs, proper HTTP status codes, versioning, JWT authentication, and consistent JSON response formats.",
+    "url": "https://restfulapi.net/"
+  },
+  {
+    "id": "doc_21",
+    "title": "GraphQL \u2014 API Query Language by Facebook",
+    "content": "GraphQL is a query language for APIs and a runtime for executing those queries with your existing data. GraphQL gives clients the power to ask for exactly what they need and nothing more. It was developed internally by Facebook in 2012 before being publicly released in 2015. GraphQL APIs are organized in terms of types and fields rather than endpoints.",
+    "url": "https://graphql.org/learn/"
+  },
+  {
+    "id": "doc_22",
+    "title": "TypeScript \u2014 JavaScript with Static Types",
+    "content": "TypeScript is a strongly typed programming language that builds on JavaScript giving you better tooling at any scale. TypeScript adds optional static typing and class-based object-oriented programming to the language. It compiles to plain JavaScript. TypeScript improves developer productivity through better IDE support, early error detection, and code refactoring.",
+    "url": "https://www.typescriptlang.org/docs/"
+  },
+  {
+    "id": "doc_23",
+    "title": "Node.js \u2014 JavaScript Runtime Environment",
+    "content": "Node.js is a cross-platform open-source server environment that can run JavaScript code outside of a web browser. Node.js uses an event-driven non-blocking I/O model that makes it lightweight and efficient. It is used for building scalable network applications, REST APIs, real-time applications, and microservices. The npm ecosystem provides access to millions of packages.",
+    "url": "https://nodejs.org/en/docs/"
+  },
+  {
+    "id": "doc_24",
+    "title": "MongoDB \u2014 NoSQL Document Database",
+    "content": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database it uses JSON-like documents with optional schemas. MongoDB supports high availability through replica sets, horizontal scalability through sharding, and rich queries including aggregation pipelines and full text search.",
+    "url": "https://www.mongodb.com/docs/"
+  },
+  {
+    "id": "doc_25",
+    "title": "Apache Kafka \u2014 Distributed Event Streaming",
+    "content": "Apache Kafka is a distributed event store and stream-processing platform. It is an open-source system developed by the Apache Software Foundation. Kafka is used for building real-time data pipelines and streaming applications. It is horizontally scalable, fault-tolerant, and extremely fast. Kafka stores streams of records in topics and allows consumers to read from any offset.",
+    "url": "https://kafka.apache.org/documentation/"
+  },
+  {
+    "id": "doc_26",
+    "title": "Elasticsearch \u2014 Search and Analytics Engine",
+    "content": "Elasticsearch is a distributed RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack it centrally stores your data for lightning fast search, fine-tuned relevancy, and powerful analytics that scale with ease. Elasticsearch uses inverted indexes and BM25 ranking for full-text search.",
+    "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html"
+  },
+  {
+    "id": "doc_27",
+    "title": "AWS \u2014 Amazon Web Services Cloud Platform",
+    "content": "Amazon Web Services is a comprehensive and broadly adopted cloud platform offering over 200 fully featured services from data centers globally. AWS provides compute, storage, database, networking, analytics, machine learning, security, and developer tools. Key services include EC2 for compute, S3 for storage, RDS for databases, Lambda for serverless computing, and SageMaker for machine learning.",
+    "url": "https://aws.amazon.com/getting-started/"
+  },
+  {
+    "id": "doc_28",
+    "title": "System Design \u2014 Scalable Distributed Systems",
+    "content": "System design is the process of defining the architecture, components, modules, interfaces, and data for a system to satisfy specified requirements. Key concepts include horizontal and vertical scaling, load balancing, caching with Redis, database sharding and replication, message queues, microservices architecture, CAP theorem, and consistent hashing. These are core topics in software engineering interviews.",
+    "url": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "id": "doc_29",
+    "title": "Big O Notation \u2014 Algorithm Complexity Analysis",
+    "content": "Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity. In computer science it is used to classify algorithms according to how their run time or space requirements grow as the input size grows. Common complexities are O(1) constant, O(log n) logarithmic, O(n) linear, O(n log n), and O(n squared) quadratic.",
+    "url": "https://www.bigocheatsheet.com/"
+  },
+  {
+    "id": "doc_30",
+    "title": "Linux Command Line and Shell Scripting",
+    "content": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel. The command line interface allows users to interact with the system through text commands. Essential commands include ls for listing files, cd for changing directories, grep for searching text, awk for text processing, sed for stream editing, chmod for permissions, and ssh for remote access.",
+    "url": "https://linuxcommand.org/lc3_learning_the_shell.php"
+  },
+  {
+    "id": "doc_31",
+    "title": "SQL \u2014 Structured Query Language Reference",
+    "content": "SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system. SQL statements include SELECT for querying, INSERT for adding, UPDATE for modifying, and DELETE for removing data. Advanced SQL features include JOINs, subqueries, window functions, CTEs, indexes, and stored procedures.",
+    "url": "https://www.w3schools.com/sql/"
+  },
+  {
+    "id": "doc_32",
+    "title": "Flask \u2014 Lightweight Python Web Framework",
+    "content": "Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. Flask has no database abstraction layer or form validation by default. It supports extensions that can add features such as database integration, authentication, and form handling. Flask is popular for building small APIs and prototypes.",
+    "url": "https://flask.palletsprojects.com/"
+  },
+  {
+    "id": "doc_33",
+    "title": "Transformer Architecture \u2014 Attention Is All You Need",
+    "content": "The transformer is a deep learning model architecture introduced in the paper Attention Is All You Need in 2017. It relies entirely on self-attention mechanisms to draw global dependencies between input and output. Transformers are the foundation of large language models such as GPT, BERT, and T5. They have revolutionized natural language processing tasks including translation, summarization, and question answering.",
+    "url": "https://arxiv.org/abs/1706.03762"
+  },
+  {
+    "id": "doc_34",
+    "title": "OpenAI GPT \u2014 Large Language Models",
+    "content": "GPT stands for Generative Pre-trained Transformer. Large language models are neural networks trained on vast amounts of text data to understand and generate human language. They use the transformer architecture with billions of parameters. Applications include chatbots, code generation, text summarization, translation, and question answering. Fine-tuning adapts pretrained models to specific tasks.",
+    "url": "https://platform.openai.com/docs/introduction"
+  },
+  {
+    "id": "doc_35",
+    "title": "Computer Vision \u2014 Image Recognition with CNNs",
+    "content": "Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. Convolutional neural networks are the standard architecture for image classification, object detection, and image segmentation. Famous CNN architectures include AlexNet, VGG, ResNet, and EfficientNet. OpenCV is a popular library for computer vision tasks in Python.",
+    "url": "https://opencv.org/"
+  },
+  {
+    "id": "doc_36",
+    "title": "Reinforcement Learning \u2014 Concepts and Algorithms",
+    "content": "Reinforcement learning is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize cumulative reward. Key concepts include Markov decision processes, Q-learning, policy gradients, and deep reinforcement learning with DQN and PPO algorithms. OpenAI Gym provides standard environments for training and evaluating agents.",
+    "url": "https://gymnasium.farama.org/"
+  },
+  {
+    "id": "doc_37",
+    "title": "Microservices Architecture Patterns",
+    "content": "Microservices is an architectural style that structures an application as a collection of small autonomous services modeled around a business domain. Each service is self-contained and implements a single business capability. Microservices communicate via REST APIs or message queues like Kafka. Benefits include independent deployment, scalability, and fault isolation.",
+    "url": "https://microservices.io/patterns/index.html"
+  },
+  {
+    "id": "doc_38",
+    "title": "JWT \u2014 JSON Web Token Authentication",
+    "content": "JSON Web Token is an open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. JWTs are commonly used for authentication and information exchange in REST APIs. A JWT consists of three parts: a header, a payload, and a signature. They can be signed using a secret or a public and private key pair using RSA or ECDSA.",
+    "url": "https://jwt.io/introduction"
+  },
+  {
+    "id": "doc_39",
+    "title": "WebSockets \u2014 Real-Time Bidirectional Communication",
+    "content": "WebSocket is a computer communications protocol providing full-duplex communication channels over a single TCP connection. WebSockets enable real-time bidirectional communication between a client and server without polling. They are used in chat applications, live dashboards, collaborative tools, and online gaming. Libraries like Socket.IO provide an abstraction layer over raw WebSockets with fallback support.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"
+  },
+  {
+    "id": "doc_40",
+    "title": "Tailwind CSS \u2014 Utility-First CSS Framework",
+    "content": "Tailwind CSS is a utility-first CSS framework packed with classes that can be composed to build any design directly in your markup. Unlike component frameworks like Bootstrap, Tailwind provides low-level utility classes that let you build completely custom designs without ever leaving your HTML. Tailwind CSS works well with React, Vue, Angular, and other modern JavaScript frameworks.",
+    "url": "https://tailwindcss.com/docs"
+  },
+  {
+    "id": "doc_41",
+    "title": "Clean Code \u2014 Software Engineering Principles",
+    "content": "Clean code is code that is easy to understand and easy to change. Robert Martin popularized the concept in his book Clean Code. Key principles include meaningful names, small focused functions, avoiding duplication through the DRY principle, SOLID principles for object oriented design, writing tests before code with TDD, and continuous refactoring. Code is read far more than it is written.",
+    "url": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+  },
+  {
+    "id": "doc_42",
+    "title": "Cybersecurity \u2014 OWASP Top 10 Web Vulnerabilities",
+    "content": "The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications including injection attacks, broken authentication, sensitive data exposure, broken access control, security misconfiguration, cross-site scripting XSS, insecure deserialization, and using components with known vulnerabilities.",
+    "url": "https://owasp.org/www-project-top-ten/"
+  },
+  {
+    "id": "doc_43",
+    "title": "Agile and Scrum Software Development",
+    "content": "Agile is a set of principles for software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams. Agile advocates adaptive planning, evolutionary development, early delivery, and continual improvement. Scrum is the most popular agile framework with sprints, daily standups, sprint reviews, and retrospectives.",
+    "url": "https://agilemanifesto.org/"
+  },
+  {
+    "id": "doc_44",
+    "title": "Apache Spark \u2014 Large Scale Data Processing",
+    "content": "Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance. It supports SQL queries through Spark SQL, machine learning through MLlib, graph processing through GraphX, and stream processing. Spark is significantly faster than Hadoop MapReduce for iterative algorithms.",
+    "url": "https://spark.apache.org/docs/latest/"
+  },
+  {
+    "id": "doc_45",
+    "title": "Twelve Factor App \u2014 Cloud Native Methodology",
+    "content": "The Twelve-Factor App is a methodology for building software-as-a-service applications that are portable, scalable, and maintainable in cloud environments. The twelve factors cover codebase, dependencies, configuration, backing services, build and release, processes, port binding, concurrency, disposability, dev and production parity, logs as event streams, and admin processes.",
+    "url": "https://12factor.net/"
+  },
+  {
+    "id": "doc_46",
+    "title": "Gradient Descent \u2014 Neural Network Optimization",
+    "content": "Gradient descent is an optimization algorithm used to minimize a function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning it is used to update the parameters of a model to minimize a loss function. Variants include stochastic gradient descent, mini-batch gradient descent, Adam, RMSprop, and AdaGrad optimizers.",
+    "url": "https://ruder.io/optimizing-gradient-descent/"
+  },
+  {
+    "id": "doc_47",
+    "title": "Information Retrieval \u2014 Search Engine Fundamentals",
+    "content": "Information retrieval is the science of searching for information in documents and databases. Search engines use inverted indexes, BM25 ranking, TF-IDF weighting, PageRank for link analysis, query expansion, and machine learning to rank results. Precision, recall, and F1 score are the key evaluation metrics. Lucene is the most widely used information retrieval library.",
+    "url": "https://nlp.stanford.edu/IR-book/"
+  },
+  {
+    "id": "doc_48",
+    "title": "Blockchain and Distributed Ledger Technology",
+    "content": "A blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network. Each block contains a number of transactions secured by cryptographic hashing and linked to the previous block.",
+    "url": "https://ethereum.org/en/developers/docs/"
+  },
+  {
+    "id": "doc_49",
+    "title": "Data Science Workflow \u2014 CRISP-DM Process",
+    "content": "CRISP-DM stands for Cross Industry Standard Process for Data Mining and is the most widely used analytics model in the industry. The process consists of six phases: business understanding, data understanding, data preparation, modeling, evaluation, and deployment. Data scientists use Python, R, Jupyter notebooks, and workflow orchestration tools like Apache Airflow.",
+    "url": "https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview"
+  },
+  {
+    "id": "doc_50",
+    "title": "DevOps \u2014 Culture Practices and Tools",
+    "content": "DevOps is a set of practices that combines software development and IT operations to shorten the systems development life cycle and provide continuous delivery with high software quality. Key practices include continuous integration, continuous delivery, infrastructure as code using Terraform or Ansible, monitoring and observability with Prometheus and Grafana, and a culture of shared responsibility.",
+    "url": "https://aws.amazon.com/devops/what-is-devops/"
+  }
+]

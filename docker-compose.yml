@@ -1,0 +1,20 @@
+version: "3.9"
+
+services:
+  backend:
+    build: ./mini-search-engine
+    container_name: search-engine-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./mini-search-engine/data:/app/data
+
+  frontend:
+    build: ./search-ui
+    container_name: search-engine-ui
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+    environment:
+      - VITE_API_URL=http://localhost:8000
