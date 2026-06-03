@@ -5,7 +5,7 @@ import SearchBar from "./components/SearchBar";
 import ResultCard from "./components/ResultCard";
 import StatsBar from "./components/StatsBar";
 
-const API = "http://localhost:8000";
+const API = "https://mini-search-engine-api.onrender.com";
 
 export default function App() {
     const [query, setQuery] = useState("");
